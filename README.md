@@ -1,6 +1,6 @@
 # ProjetoBLE
 
-# Projeto para a disciplina Sistemas Embarcados.
+# Projeto para a disciplina Sistemas Embarcados
 
 
 
